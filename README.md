@@ -16,3 +16,4 @@ Features marked with ⭐ should be present in the first stable version.
  - [ ] LevelDB compression level option
  - [ ] Option to unpack and pack the LevelDB in order for other apps to be able to interact with it
  - [ ] CLI interface for unpacking and packing LevelDB
+ - [ ] Key generator for common keys (terrain, digp, actorprefix)
